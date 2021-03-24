@@ -4,7 +4,7 @@ Author: Marco Marini, Sheffield, 2020, marco.marini@phd.unipi.it
 How to use Annotator:
 
 The Annotator is able to generate a TextGrid file (Praat style) for wav file.
-It exploit the KALDI Voice Activity Detector (VAD) to extract tiers of "voice"
+It exploits the KALDI Voice Activity Detector (VAD) to extract tiers of "voice"
 and "unvoice". 
 For each "voice" tiers the label of the word pronounced is generated.
 So the entire program is composed by 2 algorithms. 
